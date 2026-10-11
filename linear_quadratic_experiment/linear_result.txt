@@ -1,0 +1,30 @@
+Running experiment for DGP 1
+	avg improvement across 100 runs and its std for m=50, dgp=1
+	LIRR	3.7283(2.7360)
+	PCA	3.1035(3.6229)
+	avg improvement across 100 runs and its std for m=100, dgp=1
+	LIRR	2.4189(2.0164)
+	PCA	2.1249(2.7203)
+	avg improvement across 100 runs and its std for m=500, dgp=1
+	LIRR	1.0355(0.9698)
+	PCA	1.0098(1.0786)
+Running experiment for DGP 2
+	avg improvement across 100 runs and its std for m=50, dgp=2
+	LIRR	5.4706(4.1242)
+	PCA	3.1717(4.0468)
+	avg improvement across 100 runs and its std for m=100, dgp=2
+	LIRR	4.0806(3.5969)
+	PCA	2.4044(3.5741)
+	avg improvement across 100 runs and its std for m=500, dgp=2
+	LIRR	1.6996(1.5957)
+	PCA	0.9005(1.3995)
+Running experiment for DGP 3
+	avg improvement across 100 runs and its std for m=50, dgp=3
+	LIRR	5.4944(4.0596)
+	PCA	2.5171(4.8519)
+	avg improvement across 100 runs and its std for m=100, dgp=3
+	LIRR	3.8931(3.3116)
+	PCA	2.5713(3.7491)
+	avg improvement across 100 runs and its std for m=500, dgp=3
+	LIRR	1.5934(1.7305)
+	PCA	1.1716(1.6904)
