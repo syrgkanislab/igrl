@@ -26,6 +26,18 @@ We include three sets of experiments:
 
 Clone the repository and install the required packages:
 
+**Clone the repository:**
+
+   ```
+   git clone [https://github.com/syrgkanislab/igrl.git](https://github.com/syrgkanislab/igrl.git)
+   cd igrl
+   ```
+
+**Install dependencies:**
+    ```
+    pip install -r requirements.txt
+    ```
+
 
 ## Usage
 
@@ -84,6 +96,11 @@ You may adjust `MAX_PARALLEL` in the script to control the number of concurrent 
 After all runs finish, generate summary tables by running the jupyter notebook `Postprocess.ipynb`,
 
 On a node with 2× H100 GPUs, the experiment completes in ~2 days. On smaller GPUs, it may take up to a week.
+
+## Paper
+
+For details on the methodology, please refer to the full paper:
+- **Paper Link:** [Learning Treatment Representations for Downstream Instrumental Variable Regression (PDF)](https://openreview.net/pdf?id=pXpo3Nsy0V)
 
 ## License
 
